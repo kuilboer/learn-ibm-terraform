@@ -1,6 +1,6 @@
-resource_group = "lab"
+resource_group = "default"
 
-prefix="lionel"
+prefix="olaf"
 
 # Drop your public key here
 ssh_public_key = ""
